@@ -1,3 +1,1 @@
-https://jefersonlemos.github.io/Resume/
-
-A repo that holds my resume.
+#[Currículo Silvio Valerio](https://elisboa.github.io/resume-silvio_aparecido_valerio/)
